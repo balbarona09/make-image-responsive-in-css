@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.image {
+  width: 65%;
+}
+@media screen and (max-width: 992px) {
+  .image {
+    width: 100%;
+  }
+}
